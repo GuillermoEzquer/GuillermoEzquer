@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- :large_blue_circle::white_circle::large_blue_circle: I am from Argentina
+- :family: We live in spain with my family
+- :mortar_board: I am a software engineer
+- :mag: Very curious person
+- :dash: Fast learning
 <!--
 **GuillermoEzquer/GuillermoEzquer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...👋
 - ⚡ Fun fact: ...
 -->
