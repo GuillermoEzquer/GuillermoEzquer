@@ -4,7 +4,7 @@
 - :family: We live in spain with my family
 - :mortar_board: I am a software engineer
 - :mag: Very curious person
-- :dash: Fast learning
+- :dash: Fast learner
 <!--
 **GuillermoEzquer/GuillermoEzquer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
